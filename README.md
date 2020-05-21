@@ -22,7 +22,7 @@ yarn start
 
 ## Author
 
-👤 **dark -v0id **
+👤 **dark-v0id **
 
 
 ## Show your support
